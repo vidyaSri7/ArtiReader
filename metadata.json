@@ -1,0 +1,5 @@
+{
+  "name": "Readify",
+  "description": "An application that creates a personalized audio summary of news articles you provide, so you can listen on your commute. It uses Gemini to summarize text and generate high-quality speech.",
+  "requestFramePermissions": []
+}
